@@ -1,0 +1,23 @@
+#container {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.picHolder {
+  height: 500px;
+  width: 350px;
+  border: solid black 1px;
+  border-radius: 10px;
+  margin: 50px auto;
+}
+
+.picHolder img {
+  max-height: auto;
+  max-width: 348px;
+  border: solid black 1px;
+  border-radius: 10px;
+  margin: 0 auto;
+  overflow: hidden;
+}
